@@ -1,0 +1,4 @@
+[submodule "damarowahutu/public"]
+	path = damarowahutu/public
+	url = https://github.com/Tserewara/damarowahutu.com.git
+	branch = main

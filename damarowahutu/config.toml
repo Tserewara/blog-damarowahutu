@@ -1,0 +1,4 @@
+baseURL = "https://damarowahutu.com"
+languageCode = "en-us"
+title = "Dama Rowahutu"
+theme = "hugo-PaperMod"
