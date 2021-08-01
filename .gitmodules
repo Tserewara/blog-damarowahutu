@@ -3,5 +3,5 @@
 	url = https://github.com/Tserewara/damarowahutu.com.git
 	branch = main
 [submodule "hugo-PaperMod"]
-	path = damarowahutu/public/hugo-PaperMod
+	path = damarowahutu/themes/hugo-PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
